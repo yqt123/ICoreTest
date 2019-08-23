@@ -1,0 +1,14 @@
+G:\cheng\ICoreTest\ICoreTest\bin\Release\netcoreapp2.1\ICoreTest.deps.json
+G:\cheng\ICoreTest\ICoreTest\bin\Release\netcoreapp2.1\ICoreTest.runtimeconfig.json
+G:\cheng\ICoreTest\ICoreTest\bin\Release\netcoreapp2.1\ICoreTest.runtimeconfig.dev.json
+G:\cheng\ICoreTest\ICoreTest\bin\Release\netcoreapp2.1\ICoreTest.dll
+G:\cheng\ICoreTest\ICoreTest\bin\Release\netcoreapp2.1\ICoreTest.pdb
+G:\cheng\ICoreTest\ICoreTest\obj\Release\netcoreapp2.1\ICoreTest.csprojAssemblyReference.cache
+G:\cheng\ICoreTest\ICoreTest\obj\Release\netcoreapp2.1\ICoreTest.csproj.CoreCompileInputs.cache
+G:\cheng\ICoreTest\ICoreTest\obj\Release\netcoreapp2.1\ICoreTest.RazorAssemblyInfo.cache
+G:\cheng\ICoreTest\ICoreTest\obj\Release\netcoreapp2.1\ICoreTest.RazorAssemblyInfo.cs
+G:\cheng\ICoreTest\ICoreTest\obj\Release\netcoreapp2.1\ICoreTest.AssemblyInfoInputs.cache
+G:\cheng\ICoreTest\ICoreTest\obj\Release\netcoreapp2.1\ICoreTest.AssemblyInfo.cs
+G:\cheng\ICoreTest\ICoreTest\obj\Release\netcoreapp2.1\ICoreTest.RazorTargetAssemblyInfo.cache
+G:\cheng\ICoreTest\ICoreTest\obj\Release\netcoreapp2.1\ICoreTest.dll
+G:\cheng\ICoreTest\ICoreTest\obj\Release\netcoreapp2.1\ICoreTest.pdb

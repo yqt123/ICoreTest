@@ -1,0 +1,11 @@
+G:\cheng\ICoreTest\ICoreRabbitMQReceive2\bin\Debug\netcoreapp2.2\ICoreRabbitMQReceive2.deps.json
+G:\cheng\ICoreTest\ICoreRabbitMQReceive2\bin\Debug\netcoreapp2.2\ICoreRabbitMQReceive2.runtimeconfig.json
+G:\cheng\ICoreTest\ICoreRabbitMQReceive2\bin\Debug\netcoreapp2.2\ICoreRabbitMQReceive2.runtimeconfig.dev.json
+G:\cheng\ICoreTest\ICoreRabbitMQReceive2\bin\Debug\netcoreapp2.2\ICoreRabbitMQReceive2.dll
+G:\cheng\ICoreTest\ICoreRabbitMQReceive2\obj\Debug\netcoreapp2.2\ICoreRabbitMQReceive2.csprojAssemblyReference.cache
+G:\cheng\ICoreTest\ICoreRabbitMQReceive2\obj\Debug\netcoreapp2.2\ICoreRabbitMQReceive2.csproj.CoreCompileInputs.cache
+G:\cheng\ICoreTest\ICoreRabbitMQReceive2\obj\Debug\netcoreapp2.2\ICoreRabbitMQReceive2.AssemblyInfoInputs.cache
+G:\cheng\ICoreTest\ICoreRabbitMQReceive2\obj\Debug\netcoreapp2.2\ICoreRabbitMQReceive2.AssemblyInfo.cs
+G:\cheng\ICoreTest\ICoreRabbitMQReceive2\bin\Debug\netcoreapp2.2\ICoreRabbitMQReceive2.pdb
+G:\cheng\ICoreTest\ICoreRabbitMQReceive2\obj\Debug\netcoreapp2.2\ICoreRabbitMQReceive2.dll
+G:\cheng\ICoreTest\ICoreRabbitMQReceive2\obj\Debug\netcoreapp2.2\ICoreRabbitMQReceive2.pdb

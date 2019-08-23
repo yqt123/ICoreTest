@@ -1,0 +1,11 @@
+G:\cheng\ICoreTest\ICoreConsole\bin\Debug\netcoreapp2.1\ICoreRabbitMQSend.deps.json
+G:\cheng\ICoreTest\ICoreConsole\bin\Debug\netcoreapp2.1\ICoreRabbitMQSend.runtimeconfig.json
+G:\cheng\ICoreTest\ICoreConsole\bin\Debug\netcoreapp2.1\ICoreRabbitMQSend.runtimeconfig.dev.json
+G:\cheng\ICoreTest\ICoreConsole\bin\Debug\netcoreapp2.1\ICoreRabbitMQSend.dll
+G:\cheng\ICoreTest\ICoreConsole\bin\Debug\netcoreapp2.1\ICoreRabbitMQSend.pdb
+G:\cheng\ICoreTest\ICoreConsole\obj\Debug\netcoreapp2.1\ICoreRabbitMQSend.csprojAssemblyReference.cache
+G:\cheng\ICoreTest\ICoreConsole\obj\Debug\netcoreapp2.1\ICoreRabbitMQSend.csproj.CoreCompileInputs.cache
+G:\cheng\ICoreTest\ICoreConsole\obj\Debug\netcoreapp2.1\ICoreRabbitMQSend.AssemblyInfoInputs.cache
+G:\cheng\ICoreTest\ICoreConsole\obj\Debug\netcoreapp2.1\ICoreRabbitMQSend.AssemblyInfo.cs
+G:\cheng\ICoreTest\ICoreConsole\obj\Debug\netcoreapp2.1\ICoreRabbitMQSend.dll
+G:\cheng\ICoreTest\ICoreConsole\obj\Debug\netcoreapp2.1\ICoreRabbitMQSend.pdb

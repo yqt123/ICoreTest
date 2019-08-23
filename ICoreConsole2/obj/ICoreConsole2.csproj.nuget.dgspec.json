@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\cheng\\ICoreTest\\ICoreConsole2\\ICoreConsole2.csproj": {}
+  },
+  "projects": {
+    "G:\\cheng\\ICoreTest\\ICoreConsole2\\ICoreConsole2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\cheng\\ICoreTest\\ICoreConsole2\\ICoreConsole2.csproj",
+        "projectName": "ICoreConsole2",
+        "projectPath": "G:\\cheng\\ICoreTest\\ICoreConsole2\\ICoreConsole2.csproj",
+        "packagesPath": "C:\\Users\\lan.c\\.nuget\\packages\\",
+        "outputPath": "G:\\cheng\\ICoreTest\\ICoreConsole2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lan.c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )",
+              "autoReferenced": true
+            },
+            "rabbitmq.client": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-preview8-013656\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

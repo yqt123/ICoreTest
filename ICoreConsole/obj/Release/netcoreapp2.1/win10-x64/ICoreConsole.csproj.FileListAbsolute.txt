@@ -1,0 +1,13 @@
+G:\cheng\ICoreTest\ICoreConsole\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+G:\cheng\ICoreTest\ICoreConsole\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+G:\cheng\ICoreTest\ICoreConsole\bin\Release\netcoreapp2.1\win10-x64\ICoreConsole.exe
+G:\cheng\ICoreTest\ICoreConsole\bin\Release\netcoreapp2.1\win10-x64\ICoreConsole.deps.json
+G:\cheng\ICoreTest\ICoreConsole\bin\Release\netcoreapp2.1\win10-x64\ICoreConsole.runtimeconfig.json
+G:\cheng\ICoreTest\ICoreConsole\bin\Release\netcoreapp2.1\win10-x64\ICoreConsole.runtimeconfig.dev.json
+G:\cheng\ICoreTest\ICoreConsole\bin\Release\netcoreapp2.1\win10-x64\ICoreConsole.dll
+G:\cheng\ICoreTest\ICoreConsole\bin\Release\netcoreapp2.1\win10-x64\ICoreConsole.pdb
+G:\cheng\ICoreTest\ICoreConsole\obj\Release\netcoreapp2.1\win10-x64\ICoreConsole.csprojAssemblyReference.cache
+G:\cheng\ICoreTest\ICoreConsole\obj\Release\netcoreapp2.1\win10-x64\ICoreConsole.AssemblyInfoInputs.cache
+G:\cheng\ICoreTest\ICoreConsole\obj\Release\netcoreapp2.1\win10-x64\ICoreConsole.AssemblyInfo.cs
+G:\cheng\ICoreTest\ICoreConsole\obj\Release\netcoreapp2.1\win10-x64\ICoreConsole.dll
+G:\cheng\ICoreTest\ICoreConsole\obj\Release\netcoreapp2.1\win10-x64\ICoreConsole.pdb
