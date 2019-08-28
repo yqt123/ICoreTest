@@ -11,16 +11,16 @@ namespace ICoreRabbitMQSend
 {
     class Program
     {
-        const string HOSTNAME = "10.168.1.201";
+        const string HOSTNAME = "47.112.114.44";
         const int PORT = 5672;
         const string USERNAME = "remote_guest";
         const string PASSWORD = "guest";
 
         static void Main(string[] args)
         {
-            //WorkerSend(args);
+            WorkerSend(args);
             //订阅模式
-            ExchangeSend(args, "direct", "exchange2", "routingKey2");
+            //ExchangeSend(args, "direct", "exchange2", "routingKey2");
         }
 
         /// <summary>

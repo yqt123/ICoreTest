@@ -11,7 +11,7 @@ namespace ICoreRabbitMQReceive
 {
     class Program
     {
-        const string HOSTNAME = "10.168.1.201";
+        const string HOSTNAME = "47.112.114.44";
         const int PORT = 5672;
         const string USERNAME = "remote_guest";
         const string PASSWORD = "guest";
@@ -19,13 +19,13 @@ namespace ICoreRabbitMQReceive
         static void Main(string[] args)
         {
             //一对一或一对多模式，一对多时 按顺序接收消息
-            //OneWorkerReceived(args);
+            OneWorkerReceived(args);
             //手动确认消息，防止宕机消息没处理
             //OneWorkerReceived(args, autoAck: false);
             //是先能者多劳,哪个机子速度快就多跑一点
             //OneWorkerReceived(args, autoAck: false, basicQos: false);
             //订阅模式
-            ExchangeReceived(args, autoAck: false, basicQos: false, exchangetype: "direct", exchangeName: "exchange2", routingKey: "routingKey2");
+            //ExchangeReceived(args, autoAck: false, basicQos: false, exchangetype: "direct", exchangeName: "exchange2", routingKey: "routingKey2");
         }
 
         /// <summary>

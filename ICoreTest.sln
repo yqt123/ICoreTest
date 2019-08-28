@@ -11,9 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICoreRabbitMQSend", "ICoreC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICoreRabbitMQReceive", "ICoreConsole2\ICoreRabbitMQReceive.csproj", "{81383F18-FCC1-4166-B801-6E923F6327D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICoreRabbitMQReceive2", "ICoreRabbitMQReceive2\ICoreRabbitMQReceive2.csproj", "{00AA4BE4-780B-4819-BB7F-CF201B798781}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICoreRabbitMQReceive2", "ICoreRabbitMQReceive2\ICoreRabbitMQReceive2.csproj", "{00AA4BE4-780B-4819-BB7F-CF201B798781}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RabbitMQ", "RabbitMQ", "{60E92432-5768-4588-BB60-3C2CC24FC25B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Redis", "Redis", "{23679EB8-38A9-4AB1-AEB4-755C25C3C7C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICoreRedis", "ICoreRedis\ICoreRedis.csproj", "{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -151,6 +155,30 @@ Global
 		{00AA4BE4-780B-4819-BB7F-CF201B798781}.Release|iPhone.Build.0 = Release|Any CPU
 		{00AA4BE4-780B-4819-BB7F-CF201B798781}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{00AA4BE4-780B-4819-BB7F-CF201B798781}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Ad-Hoc|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Ad-Hoc|Any CPU.Build.0 = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Ad-Hoc|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.AppStore|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.AppStore|Any CPU.Build.0 = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.AppStore|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.AppStore|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Release|iPhone.Build.0 = Release|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -159,6 +187,7 @@ Global
 		{77C511DD-4FAB-4834-AC30-37FD65078916} = {60E92432-5768-4588-BB60-3C2CC24FC25B}
 		{81383F18-FCC1-4166-B801-6E923F6327D0} = {60E92432-5768-4588-BB60-3C2CC24FC25B}
 		{00AA4BE4-780B-4819-BB7F-CF201B798781} = {60E92432-5768-4588-BB60-3C2CC24FC25B}
+		{0D8EA7F8-9A82-4814-8F91-E87FD8E701FA} = {23679EB8-38A9-4AB1-AEB4-755C25C3C7C5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0C5D4D5A-17C8-4927-9EF1-69463D51C7C8}
