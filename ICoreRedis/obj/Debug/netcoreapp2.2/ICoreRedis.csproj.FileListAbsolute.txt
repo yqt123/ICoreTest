@@ -1,0 +1,11 @@
+G:\cheng\ICoreTest\ICoreRedis\bin\Debug\netcoreapp2.2\ICoreRedis.deps.json
+G:\cheng\ICoreTest\ICoreRedis\bin\Debug\netcoreapp2.2\ICoreRedis.runtimeconfig.json
+G:\cheng\ICoreTest\ICoreRedis\bin\Debug\netcoreapp2.2\ICoreRedis.runtimeconfig.dev.json
+G:\cheng\ICoreTest\ICoreRedis\bin\Debug\netcoreapp2.2\ICoreRedis.dll
+G:\cheng\ICoreTest\ICoreRedis\obj\Debug\netcoreapp2.2\ICoreRedis.csprojAssemblyReference.cache
+G:\cheng\ICoreTest\ICoreRedis\obj\Debug\netcoreapp2.2\ICoreRedis.csproj.CoreCompileInputs.cache
+G:\cheng\ICoreTest\ICoreRedis\obj\Debug\netcoreapp2.2\ICoreRedis.AssemblyInfoInputs.cache
+G:\cheng\ICoreTest\ICoreRedis\obj\Debug\netcoreapp2.2\ICoreRedis.AssemblyInfo.cs
+G:\cheng\ICoreTest\ICoreRedis\bin\Debug\netcoreapp2.2\ICoreRedis.pdb
+G:\cheng\ICoreTest\ICoreRedis\obj\Debug\netcoreapp2.2\ICoreRedis.dll
+G:\cheng\ICoreTest\ICoreRedis\obj\Debug\netcoreapp2.2\ICoreRedis.pdb
