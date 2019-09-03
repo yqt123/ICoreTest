@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "68f71e5963a6418c16968b4c5b086e9c1f03fb91"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "ConsoleCommunicationServer/1.0.0": {
+        "dependencies": {
+          "HslCommunication": "7.0.1"
+        },
+        "runtime": {
+          "ConsoleCommunicationServer.dll": {}
+        }
+      },
+      "HslCommunication/7.0.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/HslCommunication.dll": {
+            "assemblyVersion": "7.0.1.0",
+            "fileVersion": "7.0.1.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleCommunicationServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HslCommunication/7.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HqBF2aioqmRJYmvrmQ261E60uZyhAY57pEB8a3LX0IUlK0MYrQHXeFAqpalfnswWKQHlhFzUIh2WhIm/mSbrdw==",
+      "path": "hslcommunication/7.0.1",
+      "hashPath": "hslcommunication.7.0.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mtweBXPWhp1CMQATtBT7ZfMZrbZBTKfjGwz6Y75NwGjx/GztDaUnfw8GK9KZ2T4fDIqKJyDjc9Rxlw5+G2FcVA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+G:\cheng\ICoreTest\ConsoleCommunicationClient\bin\Debug\netcoreapp2.2\ConsoleCommunicationClient.deps.json
+G:\cheng\ICoreTest\ConsoleCommunicationClient\bin\Debug\netcoreapp2.2\ConsoleCommunicationClient.runtimeconfig.json
+G:\cheng\ICoreTest\ConsoleCommunicationClient\bin\Debug\netcoreapp2.2\ConsoleCommunicationClient.runtimeconfig.dev.json
+G:\cheng\ICoreTest\ConsoleCommunicationClient\bin\Debug\netcoreapp2.2\ConsoleCommunicationClient.dll
+G:\cheng\ICoreTest\ConsoleCommunicationClient\obj\Debug\netcoreapp2.2\ConsoleCommunicationClient.csproj.CoreCompileInputs.cache
+G:\cheng\ICoreTest\ConsoleCommunicationClient\obj\Debug\netcoreapp2.2\ConsoleCommunicationClient.AssemblyInfoInputs.cache
+G:\cheng\ICoreTest\ConsoleCommunicationClient\obj\Debug\netcoreapp2.2\ConsoleCommunicationClient.AssemblyInfo.cs
+G:\cheng\ICoreTest\ConsoleCommunicationClient\bin\Debug\netcoreapp2.2\ConsoleCommunicationClient.pdb
+G:\cheng\ICoreTest\ConsoleCommunicationClient\obj\Debug\netcoreapp2.2\ConsoleCommunicationClient.csprojAssemblyReference.cache
+G:\cheng\ICoreTest\ConsoleCommunicationClient\obj\Debug\netcoreapp2.2\ConsoleCommunicationClient.dll
+G:\cheng\ICoreTest\ConsoleCommunicationClient\obj\Debug\netcoreapp2.2\ConsoleCommunicationClient.pdb

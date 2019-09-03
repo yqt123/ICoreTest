@@ -1,0 +1,11 @@
+G:\cheng\ICoreTest\ConsoleDelegate\bin\Debug\netcoreapp2.2\ConsoleDelegate.deps.json
+G:\cheng\ICoreTest\ConsoleDelegate\bin\Debug\netcoreapp2.2\ConsoleDelegate.runtimeconfig.json
+G:\cheng\ICoreTest\ConsoleDelegate\bin\Debug\netcoreapp2.2\ConsoleDelegate.runtimeconfig.dev.json
+G:\cheng\ICoreTest\ConsoleDelegate\bin\Debug\netcoreapp2.2\ConsoleDelegate.dll
+G:\cheng\ICoreTest\ConsoleDelegate\bin\Debug\netcoreapp2.2\ConsoleDelegate.pdb
+G:\cheng\ICoreTest\ConsoleDelegate\obj\Debug\netcoreapp2.2\ConsoleDelegate.csprojAssemblyReference.cache
+G:\cheng\ICoreTest\ConsoleDelegate\obj\Debug\netcoreapp2.2\ConsoleDelegate.csproj.CoreCompileInputs.cache
+G:\cheng\ICoreTest\ConsoleDelegate\obj\Debug\netcoreapp2.2\ConsoleDelegate.AssemblyInfoInputs.cache
+G:\cheng\ICoreTest\ConsoleDelegate\obj\Debug\netcoreapp2.2\ConsoleDelegate.AssemblyInfo.cs
+G:\cheng\ICoreTest\ConsoleDelegate\obj\Debug\netcoreapp2.2\ConsoleDelegate.dll
+G:\cheng\ICoreTest\ConsoleDelegate\obj\Debug\netcoreapp2.2\ConsoleDelegate.pdb

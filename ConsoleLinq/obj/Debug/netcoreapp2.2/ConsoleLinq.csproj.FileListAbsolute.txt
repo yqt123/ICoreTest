@@ -1,0 +1,11 @@
+G:\cheng\ICoreTest\ConsoleLinq\bin\Debug\netcoreapp2.2\ConsoleLinq.deps.json
+G:\cheng\ICoreTest\ConsoleLinq\bin\Debug\netcoreapp2.2\ConsoleLinq.runtimeconfig.json
+G:\cheng\ICoreTest\ConsoleLinq\bin\Debug\netcoreapp2.2\ConsoleLinq.runtimeconfig.dev.json
+G:\cheng\ICoreTest\ConsoleLinq\bin\Debug\netcoreapp2.2\ConsoleLinq.dll
+G:\cheng\ICoreTest\ConsoleLinq\bin\Debug\netcoreapp2.2\ConsoleLinq.pdb
+G:\cheng\ICoreTest\ConsoleLinq\obj\Debug\netcoreapp2.2\ConsoleLinq.csprojAssemblyReference.cache
+G:\cheng\ICoreTest\ConsoleLinq\obj\Debug\netcoreapp2.2\ConsoleLinq.csproj.CoreCompileInputs.cache
+G:\cheng\ICoreTest\ConsoleLinq\obj\Debug\netcoreapp2.2\ConsoleLinq.AssemblyInfoInputs.cache
+G:\cheng\ICoreTest\ConsoleLinq\obj\Debug\netcoreapp2.2\ConsoleLinq.AssemblyInfo.cs
+G:\cheng\ICoreTest\ConsoleLinq\obj\Debug\netcoreapp2.2\ConsoleLinq.dll
+G:\cheng\ICoreTest\ConsoleLinq\obj\Debug\netcoreapp2.2\ConsoleLinq.pdb
