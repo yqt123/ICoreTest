@@ -1,0 +1,11 @@
+E:\GithubTestProject\ICoreTest\ConsoleTask\bin\Debug\netcoreapp2.2\ConsoleTask.deps.json
+E:\GithubTestProject\ICoreTest\ConsoleTask\bin\Debug\netcoreapp2.2\ConsoleTask.runtimeconfig.json
+E:\GithubTestProject\ICoreTest\ConsoleTask\bin\Debug\netcoreapp2.2\ConsoleTask.runtimeconfig.dev.json
+E:\GithubTestProject\ICoreTest\ConsoleTask\bin\Debug\netcoreapp2.2\ConsoleTask.dll
+E:\GithubTestProject\ICoreTest\ConsoleTask\bin\Debug\netcoreapp2.2\ConsoleTask.pdb
+E:\GithubTestProject\ICoreTest\ConsoleTask\obj\Debug\netcoreapp2.2\ConsoleTask.csprojAssemblyReference.cache
+E:\GithubTestProject\ICoreTest\ConsoleTask\obj\Debug\netcoreapp2.2\ConsoleTask.csproj.CoreCompileInputs.cache
+E:\GithubTestProject\ICoreTest\ConsoleTask\obj\Debug\netcoreapp2.2\ConsoleTask.AssemblyInfoInputs.cache
+E:\GithubTestProject\ICoreTest\ConsoleTask\obj\Debug\netcoreapp2.2\ConsoleTask.AssemblyInfo.cs
+E:\GithubTestProject\ICoreTest\ConsoleTask\obj\Debug\netcoreapp2.2\ConsoleTask.dll
+E:\GithubTestProject\ICoreTest\ConsoleTask\obj\Debug\netcoreapp2.2\ConsoleTask.pdb

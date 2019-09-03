@@ -29,19 +29,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nunit", "Nunit", "{6B2B6CB2
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Delegate", "Delegate", "{9EA5B7CA-CD44-4D8D-A0DA-9DF2C4ABEF30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDelegate", "ConsoleDelegate\ConsoleDelegate.csproj", "{0B8E568D-ABB7-4517-AE7C-0E008E30C6A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDelegate", "ConsoleDelegate\ConsoleDelegate.csproj", "{0B8E568D-ABB7-4517-AE7C-0E008E30C6A6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LINQ", "LINQ", "{10B0EA8B-B393-4280-9ADC-72083FC0475C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleLinq", "ConsoleLinq\ConsoleLinq.csproj", "{C75BACF6-CDA6-48EC-B8C4-AB071A3DEAFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleLinq", "ConsoleLinq\ConsoleLinq.csproj", "{C75BACF6-CDA6-48EC-B8C4-AB071A3DEAFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTask", "ConsoleTask\ConsoleTask.csproj", "{93A1E9FE-5874-4E1A-9577-B7A6F5E31B6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTask", "ConsoleTask\ConsoleTask.csproj", "{93A1E9FE-5874-4E1A-9577-B7A6F5E31B6D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Communication", "Communication", "{330B9ED8-5046-4636-9C28-0EF9A62AB0DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCommunicationServer", "ConsoleCommunicationServer\ConsoleCommunicationServer.csproj", "{C8397661-B63D-4635-B63A-F5A461BCBC0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleCommunicationServer", "ConsoleCommunicationServer\ConsoleCommunicationServer.csproj", "{C8397661-B63D-4635-B63A-F5A461BCBC0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCommunicationClient", "ConsoleCommunicationClient\ConsoleCommunicationClient.csproj", "{91517F8E-9684-49E7-9695-DA1130DB05C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleCommunicationClient", "ConsoleCommunicationClient\ConsoleCommunicationClient.csproj", "{91517F8E-9684-49E7-9695-DA1130DB05C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Remoting", "Remoting", "{2C26CA3C-9778-45E1-B9C3-B7CB5E82AE72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
