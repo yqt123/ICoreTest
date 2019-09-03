@@ -13,6 +13,7 @@ namespace ICoreRedis
             var val = RedisManage.Get<string>("testkey");
 
             Console.WriteLine(val);
+
         }
     }
 }
