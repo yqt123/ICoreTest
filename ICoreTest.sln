@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.136
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICoreTest", "ICoreTest\ICoreTest.csproj", "{798987B1-5882-4395-A0CE-DA0876441A7A}"
 EndProject
@@ -44,6 +44,11 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleCommunicationClient", "ConsoleCommunicationClient\ConsoleCommunicationClient.csproj", "{91517F8E-9684-49E7-9695-DA1130DB05C8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Remoting", "Remoting", "{2C26CA3C-9778-45E1-B9C3-B7CB5E82AE72}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{9849973F-707F-4467-ACB5-535BC2C5F858}"
+	ProjectSection(SolutionItems) = preProject
+		new123.txt = new123.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
